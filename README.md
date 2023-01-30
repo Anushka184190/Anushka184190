@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka184190&label=Profile%20views&color=0e75b6&style=flat" alt="anushka184190" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **DSA and Problem solving**
 
