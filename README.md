@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://th.bing.com/th/id/OIP.Qw7TFX2IqHjyKfjFI5RzzgHaBP?w=367&h=61&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="">
+<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="" height="200px" width="100%">
 
 </div>
 <h1 align="center">Hi 👋, I'm Anushka Khandelwal</h1>
