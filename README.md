@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **DSA and Problem solving**
+- 💬 Ask me about **UI dev and Problem solving**
 
-- 📫 How to reach me **khandelwalanushka819@gmail.com**
+- 📫 How to reach me **anushkakhandelwal2410@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
