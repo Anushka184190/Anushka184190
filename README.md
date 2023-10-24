@@ -3,10 +3,10 @@
 </div>
 <h1 align="center">Hi 👋, I'm I'm Anushka Khandelwal</h1>
 <h3 align="center">A competitive programmer enthusiast that talks about Data Structure and Algorithms who also keeps interest in Web Development.</h3>
-
+<img src="https://tse1.explicit.bing.net/th?id=OIP.v-fD7Gm_N59ipd5qNKzcXQHaFj&pid=Api&P=0&h=220" align="right" width="400px" height="auto"  />
 - 🌱 I’m currently learning **Nodejs and Expressjs**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-cti58rg6k-anushka-khandelwals-projects.vercel.app/](https://portfolio-cti58rg6k-anushka-khandelwals-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-cti58rg6k-anushka-khandelwals-projects.vercel.app/)
 
 - 💬 Ask me about **Reactjs and Problem Solving**
 
