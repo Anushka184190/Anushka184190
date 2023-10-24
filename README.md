@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="" height="200px" width="100%">
+<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="photo" height="200px" width="100%">
 </div>
 <h1 align="center">Hi 👋, I'm I'm Anushka Khandelwal</h1>
 <h3 align="center">A competitive programmer enthusiast that talks about Data Structure and Algorithms who also keeps interest in Web Development.</h3>
