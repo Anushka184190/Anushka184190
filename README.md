@@ -4,6 +4,9 @@
 <h1 align="center">Hi 👋, I'm I'm Anushka Khandelwal</h1>
 <h3 align="center">A competitive programmer enthusiast that talks about Data Structure and Algorithms who also keeps interest in Web Development.</h3>
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif" align="right" width="400px" height="auto"  />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka184190&label=Profile%20views&color=0e75b6&style=flat" alt="anushka184190" /> </p>
+
 - 🌱 I’m currently learning **Nodejs and Expressjs**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-cti58rg6k-anushka-khandelwals-projects.vercel.app/)
