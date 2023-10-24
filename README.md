@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Nodejs and Expressjs**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-cti58rg6k-anushka-khandelwals-projects.vercel.app/)
-
 - 💬 Ask me about **Reactjs and Problem Solving**
 
 - 📫 How to reach me **anushkakhandelwal2410@gmail.com**
