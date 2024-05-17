@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="photo" height="200px" width="100%">
 </div>
-<h1 align="center">Hi 👋, I'm I'm Anushka Khandelwal</h1>
+<h1 align="center">Hi 👋, I'm Anushka Khandelwal</h1>
 <h3 align="center">A competitive programmer enthusiast that talks about Data Structure and Algorithms who also keeps interest in Web Development.</h3>
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif" align="right" width="400px" height="auto"  />
 
